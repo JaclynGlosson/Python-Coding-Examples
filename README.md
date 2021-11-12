@@ -20,3 +20,6 @@ Using the Sportradar Soccer v4 API to obtain data from the 2020-2021 season for 
 * goals against (total conceded)
 * goal difference
 * total points
+
+## Seinfeld Script Word Frequency
+For this assignment, I created a dictionary of the most common words used by each character during the entire series of 'Seinfeld'. 
