@@ -1,5 +1,8 @@
 # Python Coding Examples
 
+## SEPTA Schedule Creation
+This notebook pulled real-time data for incoming SEPTA Suburban Station trains, and organized it in a readable schedule format. The main challenge associated with this exercise was that the accessed data did not include AM/PM designation for time, and therefore I had to manually assign AM/PM to each observation based on the time the data was requested. Finally, I output the data into hourly logs.
+
 ## Word use in Loan Applications
 Using the Lending Club Loan Dataset, I begin by parsing words used in both "good" and "bad" loan applications. I then create a dictionary of the top 25 most frequently used words, which end up being very similar between both type of loans. I then identify the most frequent words uniquely used in each type of loan.
 * Good loans: rate, !, it, lower
