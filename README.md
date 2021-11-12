@@ -6,4 +6,13 @@ Using the Lending Club Loan Dataset, I begin by parsing words used in both "good
 * Bad loans: bills, consolidation, need, help
 
 ## Sportrader Standing Table
-Using the Sportradar Soccer v4 API to obtain data from the 2020-2021 season for the English Premier League, I create a standings table to organize match metrics for each team.
+Using the Sportradar Soccer v4 API to obtain data from the 2020-2021 season for the English Premier League, I create a standings table to organize match metrics for each team. The final standings table showcases
+* abbreviation of team name
+* games played
+* games won
+* games drawn (ties)
+* games lost
+* goals for (total made)
+* goals against (total conceded)
+* goal difference
+* total points
