@@ -1,4 +1,5 @@
 # Python Coding Examples
+If you're looking for other examples of my coding skills in python, this repository dedicated to showcasing coding assignments completed during my coursework.
 
 ## SEPTA Schedule Creation
 This notebook pulled real-time data for incoming SEPTA Suburban Station trains, and organized it in a readable schedule format. The main challenge associated with this exercise was that the accessed data did not include AM/PM designation for time, and therefore I had to manually assign AM/PM to each observation based on the time the data was requested. Finally, I output the data into hourly logs.
